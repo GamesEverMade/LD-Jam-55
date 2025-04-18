@@ -1,0 +1,112 @@
+[
+	{
+		"title": "FirstMeet",
+		"tags": "",
+		"body": "You're LATE!\nWell, anyway. You need to start working right now. Lots of clients summoning lately.\nYou know the drill: Just place the required items in the summoning circle.\nYou can pick up the items with [SPACE]\nDrop them with [LEFT MOUSE BUTTON] and if you're in a hurry, you can throw them with [RIGHT MOUSE BUTTON]\nYou can check your requirements for the summoning at any time with [E]\nAnd when you have everything in the circles pick your phone with [Q] and click the button to finish.\nRemember each smaller circle can have ONLY ONE ingredient, and you also can't be standing on them when you finish.\nNow get to work! I can't get richer if you're lazy.\n.....",
+		"position": {
+			"x": 108,
+			"y": -85
+		},
+		"colorID": 0
+	},
+	{
+		"title": "AfterLvl1",
+		"tags": "",
+		"body": "Well, you're not fired.\nYet.\nYou know there are 200 demons outside waiting for you to fail and take your place for half the pay, right?\n.....",
+		"position": {
+			"x": 115,
+			"y": 160
+		},
+		"colorID": 0
+	},
+	{
+		"title": "AfterLvl2",
+		"tags": "",
+		"body": "If you work hard enough and hold true the values of our company, I will be able to buy a new yatch in a couple of months. Go team!\r\n.....\r\n",
+		"position": {
+			"x": 110,
+			"y": 421
+		},
+		"colorID": 0
+	},
+	{
+		"title": "AfterLvl3",
+		"tags": "",
+		"body": "We are behind schedule! And by we, I mean you.\r\nBut don't worry, enough pizza shall be provided for when you are working overtime, it is for the greater good (mine).\r\n.....",
+		"position": {
+			"x": 114,
+			"y": 651
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Random1",
+		"tags": "",
+		"body": "It looks like next week's chicken deliveries will be delayed... after the bridge over the lava river has melted...\r\nAlthough I can put some souls to make a human bridge to pass with the cargo.",
+		"position": {
+			"x": 385,
+			"y": -75
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Random2",
+		"tags": "",
+		"body": "I called the supplier to ask them why the prices of boilers had increased out of nowhere... They started saying something about \"floating exchange rates\"....\r\nI don't understand what swimming has to do with prices... I don't even swim.\r\nI have employees to do that for me.",
+		"position": {
+			"x": 379,
+			"y": 165
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Random3",
+		"tags": "",
+		"body": "You know I'm a fair boss, and I need to treat everyone equally.\r\nSo it is only fair that you work some extra hours tonight, just like your fellow coworkers, right?",
+		"position": {
+			"x": 348,
+			"y": 424
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Random4",
+		"tags": "",
+		"body": "We're in the middle of a paradigm shift. The company needs to expand it's portfolio to endure the new challenges so we may sail this in a way that aligns with our vision and values.",
+		"position": {
+			"x": 347,
+			"y": 648
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Random5",
+		"tags": "",
+		"body": "Hey, I'm calling to inform that we scheduled a meeting for 5:50 PM, in order to schedule the Cross-Skill Conflict-Resolution team training.",
+		"position": {
+			"x": 341,
+			"y": 894
+		},
+		"colorID": 0
+	},
+	{
+		"title": "AfterLvl4",
+		"tags": "",
+		"body": "Well, congratulations! You're making me richer than ever!\r\nJust one more summon and you can be promoted to manager.\r\nYou will enjoy even more work and responsibilities! Good Job!\r\nNow for the last summoning...\r\n......",
+		"position": {
+			"x": 87,
+			"y": 901
+		},
+		"colorID": 0
+	},
+	{
+		"title": "AfterLvl5",
+		"tags": "",
+		"body": "HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA",
+		"position": {
+			"x": 28,
+			"y": 1178
+		},
+		"colorID": 0
+	}
+]

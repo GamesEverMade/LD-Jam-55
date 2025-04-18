@@ -1,0 +1,22 @@
+[
+	{
+		"title": "FirstMeetText1",
+		"tags": "",
+		"body": "You're LATE!\nWell, anyway. You need to start working right now. Lots of clients summoning lately.\nYou know the drill: Just place the required items in the summoning circle.\nYou can pick up the items with [Space]\nDrop them with [LMB] and if you're in a hurry, you can throw them with [RMB]\nYou can check your requirements with [Q] and click the send button to finish.\nNow get to work! I can't get richer if you're lazy.",
+		"position": {
+			"x": 574,
+			"y": 386
+		},
+		"colorID": 0
+	},
+	{
+		"title": "FirstMeetText2",
+		"tags": "",
+		"body": "",
+		"position": {
+			"x": 571,
+			"y": 99
+		},
+		"colorID": 0
+	}
+]
