@@ -36,8 +36,8 @@
 </p>
 
 <p align="center">
-    <img src="./game/example1.png" alt="Image Example" width="400px"></img> |
-    <img src="./game/example2.png" alt="Image Example" width="400px"></img>
+    <img src="./example1.png" alt="Image Example" width="400px"></img> |
+    <img src="./example2.png" alt="Image Example" width="400px"></img>
 </p>
 
 <h2 id="started">📌 About  </h2>
